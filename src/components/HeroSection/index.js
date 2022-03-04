@@ -23,7 +23,7 @@ function HeroSection() {
   return (
     <HeroContainer id='home'>
       <HeroBg>
-        <VideoBg playsInline autoPlay loop muted src={Video} type='contando-dinheiro.gif' />
+        <VideoBg playsInline autoPlay loop muted src={Video} type='video.mp4' />
       </HeroBg>
       <HeroContent>
         <HeroH1>O Banco Virtual Feito Pra Você!</HeroH1>
