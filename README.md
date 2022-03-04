@@ -1,68 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Projeto Site Dudu Clean
 
-## Available Scripts
+# DuBank
+ 
+DuBank é um site de bancos virtuais 
 
-In the project directory, you can run:
+## Como rodar o projeto
 
-### `yarn start`
+É necessário apenas clonar o projeto e instalar as dependências do node, caso ja tenha o node, apenas digitar npm start no terminal.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Links
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- Site hospedado: [Site Hospedado](https://duvrp.github.io/ProjetoSiteDuduClean/)
 
-### `yarn test`
+### Construido com
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ReactJs
+- NodeJs
 
-### `yarn build`
+### O que eu aprendi
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Utilizar bibliotecas como:
+- [Slick](http://kenwheeler.github.io/slick/)
+- [React](https://pt-br.reactjs.org)
+- [ReactIcons](https://react-icons.github.io/react-icons/)
+- [ReactRouterDom](https://www.npmjs.com/package/react-router-dom)
+- [StyledComponents](https://styled-components.com)
+- [ReactSmooth](https://www.npmjs.com/package/react-smooth)
+- Desenvolvimento e resolução de erros.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Continuação do desenvolvimento após a entrega do projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O que pretendo fazer:
 
-### `yarn eject`
+- Terminar o projeto.
+- Possivel registro do usuario e banco de dados.
+- Mais páginas mostrando mais serviços do banco.
+- Inserir formulário.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Autores
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- [Eduardo Vinicius Rodrigues Prado](https://github.com/DuVRP/)
