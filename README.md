@@ -10,7 +10,7 @@ DuBank é um site de bancos virtuais
 
 ### Links
 
-- Site hospedado: [Site Hospedado](https://duvrp.github.io/ProjetoSiteDuduClean/)
+- Site hospedado: [Site Hospedado](https://duvrp.github.io/)
 
 ### Construido com
 
